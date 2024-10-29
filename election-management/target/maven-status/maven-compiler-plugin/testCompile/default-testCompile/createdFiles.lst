@@ -1,0 +1,6 @@
+infrastructure\repositories\SQLCandidateRepositoryTest.class
+infrastructure\resources\CandidateResourceTest.class
+domain\services\CandidateServiceTest.class
+domain\repository\CandidateRepositoryTest.class
+domain\CandidateResourceIT.class
+api\CandidateApiTest.class
